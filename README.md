@@ -101,11 +101,3 @@ I am actively building hands-on projects alongside my studies.
 Targeting opportunities in **Switzerland 🇨🇭 & EU**.
 
 ---
-
-### ☕ Support Me
-
-<p align="left">
-<a href="https://ko-fi.com/sushil_" target="_blank">
-<img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36">
-</a>
-</p>
