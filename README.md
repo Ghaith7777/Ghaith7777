@@ -65,19 +65,6 @@ I am actively building hands-on projects alongside my studies.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ghaith7777&theme=react&hide_title=false&show_icons=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Ghaith7777&theme=react" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghaith7777&theme=react&layout=compact&langs_count=6" />
-</p>
-
----
-
 ### 🛠️ Featured Projects (Coming Soon)
 
 🚧 Currently adding:
